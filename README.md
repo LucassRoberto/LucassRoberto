@@ -6,8 +6,8 @@ Olá! Seja bem vindo ao meu Github!
 
 <div align="center">
   <a href="https://github.com/LucassRoberto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucassRoberto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassRoberto&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucassRoberto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassRoberto&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   ##
