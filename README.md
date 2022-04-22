@@ -1,6 +1,6 @@
 Olá! Seja bem vindo ao meu Github!
 
-- 👨‍🎓 Atualmente realizando bootcamp da Generation para formação como Dev Java Jr Full-Stack
+- 👨‍🎓 Dev Java Jr Full-Stack
 - 🌍 Diadema - SP
 - 🙂 Pronouns: Ele/Dele
 
